@@ -9,3 +9,21 @@
     margin-top: 3px;
     font-size: 80px;
 }
+.goku{
+    background-color: #d5e0eb;
+    border: 5px solid #000000;
+    border-radius: 10px;
+    margin: 30px 30px 40px 50px;
+    padding: 20px 20px 20px 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.gokumage{
+    width: 250px;
+}
+.goku-title{
+    margin-left: 60px;
+    font-size: 50px;
+}
+.para{
+    font-size: 20px;
+}
